@@ -14,6 +14,11 @@
       "id": 3,
       "title": "Post 3",
       "body": "Aloha"
+    },
+    {
+      "id": 4,
+      "title": "Post 4",
+      "body": "Bonjour"
     }
   ],
   "comments": [
